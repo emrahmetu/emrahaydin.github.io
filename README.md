@@ -133,6 +133,7 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 List of certicates:
 
 - [Google Data Analytics Certificate]( https://www.credly.com/badges/b6de9b8a-5d3f-4991-9768-a5f0e0c813c8?source=linked_in_profile) (June 2022) 
+- [ACL Audit Tool Training]( https://www.wegalvanize.com/) (July 2020) (Galvanize)
 - [Machine Learning A-Z]( https://cci.udemy.com/certificate/UC-fbf17660-569a-4692-9230-46f1ab4ad1de/) (May 2020) (SuperDataScience)
 - [SQL Bootcamp]( https://cci.udemy.com/certificate/UC-0e7e6c99-fee1-4a89-bf13-bac37e65e8cf/) (May 2020) (Udemy)
 - [Apache Spark with Scala]( https://udemy-certificate.s3.amazonaws.com/pdf/UC-aa9da56c-87b9-4f11-a88c-87c748f72b5f.pdf) (April 2020) (Sundog Education)
